@@ -1,0 +1,29 @@
+// Colors
+$white: #ffffff;
+$black: #000000;
+$dark: #4b566e;
+$text-color: #424242;
+$footer-with-love: #6B6B6B;
+$placeholder-color: #B6B6B6;
+$footer-copyright: #A5B2CE;
+$bgc: #E5E5E5;
+
+
+// Sizes
+$base-font-size: 20px;
+
+$breakpoints: (
+  'phone': 400px,
+  'phone-wide': 480px,
+  'phablet': 560px,
+  'tablet-small': 640px,
+  'tablet': 768px,
+  'tablet-wide': 1024px,
+  'desktop': 1248px,
+  'desktop-wide': 1440px,
+);
+
+$content-size: 1920px;
+$phone-size: 414px;
+
+// Fonts
